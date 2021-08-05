@@ -60,3 +60,9 @@ In order to train the RASA NLU and CORE, run the following command
 ## Timeout Issue occurred occasionally while trying to fetch restaurant details from Zomato
 ## In order to overcome this, default timeout value has been increased to 30 from 10 in the below file
 venv\Lib\site-packages\rasa\core\channels\console.py - DEFAULT_STREAM_READING_TIMEOUT_IN_SECONDS changed to 30
+
+<br><br><br>
+## Privacy Statement: 
+1. I have not disclosed any information regarding the business clients of my organization or the revenue 
+2. I have not used any official asset for this project
+3. This project is only for non moneterial purposes
